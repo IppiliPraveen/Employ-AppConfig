@@ -1,4 +1,4 @@
-package com.employ.app.main;
+package com.employ.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
